@@ -1,0 +1,9 @@
+[submodule "repo2_1"]
+	path = repo2_1
+	url = https://github.com/deltavoid/repo2_1.git
+[submodule "repo2_2"]
+	path = repo2_2
+	url = https://github.com/deltavoid/repo2_2.git
+[submodule "repo2_3"]
+	path = repo2_3
+	url = https://github.com/deltavoid/repo2_3.git
